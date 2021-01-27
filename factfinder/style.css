@@ -1,0 +1,60 @@
+ 
+body{
+	background-image: url("https://i.pinimg.com/originals/42/af/ff/42afffd524a93561d03bd98c56cc7ca7.png");
+	background-size: 1920px 922px;
+	font-family:URW Chancery L, cursive;
+	color:#2F4F4F;
+	margin-left:540px; 
+	width:auto;
+    height:auto;
+}
+img{
+	width:280px;
+}
+
+#b5{
+	font-size:50px;
+}
+
+#b4{
+	font-size:50px;
+}
+
+#b3{
+	font-size:50px;
+}
+
+#b2{
+	font-size:50px;
+}
+
+#b1{
+	font-size:50px;
+}
+
+#output{
+	width:600px;
+	height:300px;
+	border:thick dotted #32a1ce;
+	padding:70px;
+	border-radius:30%;
+	color:#000080;
+	font-size:30px;
+}
+
+.button{
+	color:#87CEFA;
+	background-color:#F0FFFF;
+	border:dash;
+	padding:15px 32px;
+	font-size:1.5em;
+	font-family:Verdana,sans-serif;
+	border-radius:10px;
+	transition-duration:0.4s;
+	margin-bottom:20px;
+}
+
+.button:hover{
+	background-color:#FFE4E1;
+
+}
